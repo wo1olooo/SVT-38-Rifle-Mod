@@ -25,7 +25,7 @@ Centuries later, Rimworld settlers uncovered a damaged blueprint buried in the m
 - **[Soviet Rifle Research Tab by Wololooo](https://steamcommunity.com/sharedfiles/filedetails/?id=3527333989)**
 - **[AVS-36-Rifle-Mod](https://github.com/wo1olooo/AVS-36-Rifle-Mod)**
 
-📝 *Make sure to load this mod **after** the research tab and Fedorov Avtomat mod in your load order.*
+📝 *Make sure to load this mod **after** the research tab and AVS-36 mod in your load order.*
 
 ---
 
